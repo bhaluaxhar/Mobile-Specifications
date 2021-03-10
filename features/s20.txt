@@ -1,0 +1,55 @@
+Samsung Galaxy S8 detailed specifications
+Build	Android OS, v7.0 (Nougat)
+  
+TouchWiz UI  
+148.9 x 68.1 x 8 mm  
+155 g  
+
+Dual Sim, Dual Standby (Nano-SIM)
+  
+Midnight Black, Orchid Gray, Arctic Silver, Coral Blue, Maple Gold
+  
+Frequency	2G Band	SIM1: GSM 850 / 900 / 1800 / 1900
+
+SIM2: GSM 850 / 900 / 1800 / 1900  
+
+3G Band	HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100  
+4G Band	LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 17(700), 20(800), 28(700)  
+
+Processor	CPU	Octa-core (4 x 2.3 GHz + 4 x 1.7 GHz)  
+
+Chipset	Exynos 8895 Octa  
+
+GPU	Mali-G71 MP20  
+
+Display	Technology	Super AMOLED capacitive touchscreen, 16M 
+			colors, Multitouch  
+
+Size	5.8 Inches  
+
+Resolution	1440 x 2960 Pixels (~568 PPI)  
+
+Protection	Corning Gorilla Glass 5  
+
+Extra Features	Always-on display, 
+		3D Touch (home button only)  
+
+Memory	Built-in	64GB built-in, 4GB RAM  
+
+Card	MicroSD Card (Support up to 256GB) 
+	(dedicated slot) - Single-SIM model  
+
+Camera	Main	12 MP, autofocus, LED flash 
+ 
+Features	f/1.7, 26mm, phase detection, 
+		OIS, LED flash, 1/2.5" sensor size,
+		1.4 Âµm pixel size, Geo-tagging, 
+		simultaneous 4K video and 9MP 
+
+
+Battery	Capacity	(Li-ion Non removable), 3000 mAh  
+			- Fast battery charging  
+Price	Price in Rs: Discontinued    
+		Price in USD: $0  
+Ratings	Average Rating is 4.6 stars 
+		- based on 635 user reviews. 
